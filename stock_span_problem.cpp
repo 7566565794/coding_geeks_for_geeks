@@ -1,6 +1,14 @@
 /*
 simple but not so efficient so solution complexity is o(n^2)
 */
+/*
+test cases
+2
+7
+100 80 60 70 60 75 85
+6
+10 4 5 90 120 80
+*/
 #include <iostream>
 using namespace std;
 void calc_span(int arr[],int n){
